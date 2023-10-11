@@ -1,0 +1,110 @@
+
+.masthead {
+  height: 100vh;
+  min-height: 500px;
+  background-image: url(../img/federico-hortt-XhR0W5ij6MQ-unsplash.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+/* LOGO HEADER */
+.navbar-brand .voorpret {
+  color: #029E9D;
+}
+
+.navbar-brand .travel {
+  color: #F9C304;
+}
+
+p .voorpret{
+  color: #029E9D;
+}
+
+p .travel{
+  color: #F9C304;
+}
+/* LOGO FOOTER */
+
+.navbar-brand .voorpret {
+  color: #029E9D;
+  font-size: 30px;
+}
+
+.navbar-brand .travel {
+  color: #F9C304;
+  font-size: 30px;
+}
+
+
+/* HERO */
+.fw-hashtag-hero {
+  color: #f9c304;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 85.523%;
+  letter-spacing: 5px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.fw-texto-hero {
+  color: #ffffff;
+  font-family: "Lato", sans-serif;
+  font-size: 96px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 85.523%; /* 82.102px */
+  letter-spacing: 4.8px;
+}
+
+.parrafo-hero {
+  color: #ffffff;
+  font-family: "Montserrat", sans-serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 100;
+  line-height: 85.523%;
+}
+
+.fw-empresa{
+  font-family: "Montserrat", sans-serif;
+  color: #f9c304;
+}
+
+.fw-empresa-quienes-somos{
+  font-family: "Lato", sans-serif;
+  color: #029E9D;
+}
+
+.fw-empresa-detalle{
+  color: #645D5D;
+  font-family: "Montserrat", sans-serif;
+}
+.footer {
+  background: rgba(0, 0, 0, 0.88);
+  color: #fff;
+  padding-top: 2rem;
+}
+.footer-title {
+  text-decoration: underline;
+}
+.footer-column {
+  border-left: 1px solid #fff;
+  padding-left: 15px; 
+}
+.footer-image {
+  margin-top: auto; /* Coloca la imagen al final de la columna */
+}
+.footer-social-list a {
+  font-size: 30px; 
+  text-decoration: none;
+}
+
+.enlaces{
+  text-decoration: none;
+  color: #f9c304;
+}
+
+.enlaces:hover{
+  color: #029E9D;
+}

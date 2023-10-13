@@ -8,38 +8,34 @@
   background-repeat: no-repeat;
 }
 
-/* LOGO HEADER */
-.navbar-brand .voorpret {
-  color: #029E9D;
+.masthead {
+  position: relative;
 }
 
-.navbar-brand .travel {
-  color: #F9C304;
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5); /* Adjust the transparency of the overlay */
 }
 
-p .voorpret{
-  color: #029E9D;
+.text-overlay{
+  padding-left: 20rem;
 }
 
-p .travel{
-  color: #F9C304;
-}
-/* LOGO FOOTER */
-
-.navbar-brand .voorpret {
-  color: #029E9D;
-  font-size: 30px;
+.voorpret{
+  color: #0055B8;
 }
 
-.navbar-brand .travel {
-  color: #F9C304;
-  font-size: 30px;
+.travel{
+  color: #00A98F;
 }
-
 
 /* HERO */
 .fw-hashtag-hero {
-  color: #f9c304;
+  color: #00A98F;
   font-style: normal;
   font-weight: 400;
   line-height: 85.523%;
@@ -68,12 +64,12 @@ p .travel{
 
 .fw-empresa{
   font-family: "Montserrat", sans-serif;
-  color: #f9c304;
+  color: #00A98F;
 }
 
 .fw-empresa-quienes-somos{
   font-family: "Lato", sans-serif;
-  color: #029E9D;
+  color: #0055B8;
 }
 
 .fw-empresa-detalle{
@@ -102,9 +98,14 @@ p .travel{
 
 .enlaces{
   text-decoration: none;
-  color: #f9c304;
+  color: #ffffff;
 }
 
 .enlaces:hover{
-  color: #029E9D;
+  color: #00A98F;
 }
+.enlaces-header:hover{
+  color: #00A98F
+}
+
+

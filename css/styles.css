@@ -98,14 +98,20 @@
 
 .enlaces{
   text-decoration: none;
-  color: #ffffff;
+  color: #00A98F;
 }
 
 .enlaces:hover{
-  color: #00A98F;
+  color: #FF6C37;
 }
 .enlaces-header:hover{
-  color: #00A98F
+  color: #FF6C37
 }
 
+.lista-insitucion{
+  color: #00A98F;
+}
 
+.enlace-disposicion{
+  color: #FF6C37;
+}
